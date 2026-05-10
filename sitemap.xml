@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://winanda.netlify.app/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://winanda.netlify.app/what-to-eat-before-workout.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://winanda.netlify.app/how-often-should-you-work-out.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://winanda.netlify.app/cortisol-and-weight-gain.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
